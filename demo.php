@@ -1,1 +1,4 @@
-from github.com
+<?php
+echo "from github.com";
+
+?>
